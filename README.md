@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Roshan-Baghwar
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java, SpringBoot, Python and Django
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Let's build Tech
 - 📫 E-mail me: roshan.br800@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ My main GitHub account: https://github.com/RoshanBaghwar
